@@ -1,0 +1,6 @@
+1. ![[Union]]
+2. ![[Intersection]]
+3. ![[Difference]]
+4. ![[Compliment]]
+5. ![[Disjoint]]
+6. ![[Cross product]]

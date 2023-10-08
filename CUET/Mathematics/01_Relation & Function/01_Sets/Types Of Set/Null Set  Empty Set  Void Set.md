@@ -1,0 +1,4 @@
+- A set having 0 element in it.
+- It is denoted by { } or Φ
+- Example-
+	- A = { x : 0 < x < 1; x ∈ Z }

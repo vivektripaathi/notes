@@ -1,0 +1,12 @@
+{
+  "showInlineTitle": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": true,
+  "rightToLeft": false,
+  "showLineNumber": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "tabSize": 4,
+  "vimMode": false,
+  "legacyEditor": false
+}

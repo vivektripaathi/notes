@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "81d43ad625234cbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "15f147a9e5b0e8a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2b7df4e18cbba76",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7852aa662d5e3a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b51948a7ccf3290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6708d090c8153f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14f2ad33ffa053d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2722d9fdb5b0fbf0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8680e0bd1f2e15d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "20173f29a63fcf51",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f604e1296bc8c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35c4a058b66c2dbb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "c62e61e373681a92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a28993ad677c7f06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bfd761b5e2989e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60fc2616a1ea1e31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb2de72ebe13be61",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "13b6c6292cc2a44e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "66e2781496b080f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2b054e5c1e93b4d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.967527509149687,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "b2b7df4e18cbba76",
+  "lastOpenFiles": [
+    "Android Development/08_Storage_and_Content_Provider.md",
+    "Android Development/01_Introduction.md",
+    "Android Development/07_Notification_and_Services.md",
+    "Android Development/05_Advance_UI_Component.md",
+    "Android Development/04_Menu_and_Preferences.md",
+    "Android Development/03_Android_Fundamental&UI_Design.md",
+    "Android Development/images/ContentProvider2.png",
+    "Android Development/images/ContentProvider.png",
+    "Android Development/ContentProvider.png",
+    "ContentProvider.png",
+    "Untitled.md",
+    "Pasted image 20230703083135.png",
+    "Pasted image 20230702173024.png",
+    "Cloud Computing/06_Cloud_Storage.md",
+    "Cloud Computing/04_Virtualization.md",
+    "Cloud Computing/02_Service_and_Deployment_Models.md",
+    "Cloud Computing/01_Introduction.md",
+    "Cloud Computing/07_Scheduling in Cloud.md",
+    "Cloud Computing/05_Cloud_Security.md",
+    "Cloud Computing/03_SLA.md",
+    "Pasted image 20230630154858.png",
+    "Advance Java/03_Java_Servlet.md",
+    "Advance Java/02_Database_Programming_Using_JDBC.md",
+    "Advance Java/01_Introduction_to_Server_Side_Platform.md",
+    "Advance Java/05_JSP.md",
+    "Advance Java/04_Handling_Sessions_in_Servlet.md",
+    "Advance Java/06_AJAX.md",
+    "Advance Java/images/GenricServlet.png",
+    "Advance Java/images/forwardRequestDispatcher.jpeg",
+    "Advance Java/images/Working_of_Session.webp",
+    "Android Development/images",
+    "Android Development",
+    "Untitled 1.md",
+    "Advance Java/images/includeRequestDispatcher.jpeg.crdownload",
+    "images/HttpServletClass.png.md",
+    "images",
+    "Advance Java/images",
+    "Advance Java/untitled folder",
+    "Advance Java",
+    "07_Scheduling in Cloud.md",
+    "06_Cloud_Storage.md",
+    "04_Virtualization.md",
+    "06_Cloud _Storage"
+  ]
+}

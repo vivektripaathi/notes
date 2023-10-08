@@ -1,0 +1,1 @@
+( a, a ) ∈ R for all a ∈ A

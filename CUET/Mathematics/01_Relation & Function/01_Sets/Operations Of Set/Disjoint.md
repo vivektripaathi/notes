@@ -1,0 +1,5 @@
+- More than one sets are called disjoint sets of they have no intersection.
+- if A ∩ B  = Φ, then A and B are disjoint. 
+- if A = { 1, 2, 3, 4 }
+- B = { 5, 6, 7, 8, 10 }
+- then A ∩ B = Φ  

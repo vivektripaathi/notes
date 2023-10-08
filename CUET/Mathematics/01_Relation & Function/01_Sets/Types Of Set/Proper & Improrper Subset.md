@@ -1,0 +1,13 @@
+- If   A ⊆ B and A ≠ B, then A is called a proper subset of B and B is called superset of A.
+- Proper Subset Symbol -> **⊂**
+- A = {1, 2}
+- Subsets 
+	- Proper Subsets
+		- { }
+		- {1}
+		- {2}
+	- Improper Subset
+		- {1, 2}
+- Number of Proper Subset = 2^n - 1.
+- Number of Improper Subset = 1.
+- Number of Subsets = Number of Proper Subset + Number of Improper Subset

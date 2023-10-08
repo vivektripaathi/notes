@@ -1,0 +1,2 @@
+If ( a, b ) ∈ R and ( b, c ) ∈ R, then ( a, c ) ∈ R
+- Note: If there is no pairing in the relation, then by default it is Transitive Relation and if there is any pairing found the it should follow the above condition. 

@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "17aba04b75cc551e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38902a826f10763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "103a59d88e20063a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "621af332b7332f8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2811e428aa6fdfc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ddeb870f10c627",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed448b89d0768e6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abdf177d005828f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6d67f7e34457844",
+    "type": "split",
+    "children": [
+      {
+        "id": "425583bcff5be2b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07495c3066ee7a36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb7705b6475b0222",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e41f7a26afd107a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78bfa103ed647a06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "103a59d88e20063a",
+  "lastOpenFiles": [
+    "images/Square Matrix.md",
+    "Operations on Matrix/README.md",
+    "Types of Matrix/README.md",
+    "images/adjoint property.png",
+    "README.md",
+    "images/inverseProperty.png",
+    "images/skew-symmetric visualize.png",
+    "images/symmetric visualize.png",
+    "2022-11-30.md",
+    "images/Harmition Mtrix.png"
+  ]
+}

@@ -1,0 +1,4 @@
+- A set having infinite number of elements.
+- Example: 
+	-  A = {1, 2, 3, .......}
+	- Set of natural number

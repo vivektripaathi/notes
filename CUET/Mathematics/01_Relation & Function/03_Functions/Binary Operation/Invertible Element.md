@@ -1,0 +1,2 @@
+Let $'\ast'$ be a binary operation on $S$, and let $e$ be a the identiy element in $S$ for the binary operation $\ast$ on $S$. Then, an element $a \in S$ is called an invertible element if there exists an element $b \in S$ such that $a \ast b = e = b \ast a$.
+The element b is called an inverse of element a.

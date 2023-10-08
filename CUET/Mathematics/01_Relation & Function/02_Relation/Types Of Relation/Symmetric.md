@@ -1,0 +1,1 @@
+If ( a, b ) ∈ R, then ( b, a ) ∈ R

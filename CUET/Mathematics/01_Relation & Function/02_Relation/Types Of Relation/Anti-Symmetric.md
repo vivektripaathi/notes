@@ -1,0 +1,1 @@
+If ( a, b ) ∈ R and  ( b, a ) ∈ R => a = b

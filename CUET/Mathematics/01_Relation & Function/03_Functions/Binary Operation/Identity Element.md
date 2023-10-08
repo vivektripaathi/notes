@@ -1,0 +1,2 @@
+Let $'\ast'$ be a binary operation on $S$. If there exists en element $e \in S$ such that $a \ast e = e \ast a$ for all $a \in S$.
+Then, $e$ is called an identity element for the binary operation $'\ast'$ on set $S$.

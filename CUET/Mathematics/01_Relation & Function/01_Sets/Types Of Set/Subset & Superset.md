@@ -1,0 +1,8 @@
+- If all elements of A present in B, then A is a subset of B.
+-  Representation: A ⊆ B
+- Example: 
+	-  A = {1, 2, 3} , B {1, 2, 3, 4, 5}
+		- A ⊆ B
+	-  A = {1, 2, 3} , B {1, 2, 4, 5}
+		- A ⊄ B
+- Number of Subsets = 2^n

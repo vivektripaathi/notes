@@ -1,0 +1,7 @@
+- Represented by R<sup>-1</sup>
+- A = {1, 2, 3, 4}
+- B = {a, b, c, d}
+- R : A -> B
+- R = {(1, a), (2, b), (3, c), (4, d)}
+- R : B -> A
+- R<sup>-1</sup> = {(a, 1), (b, 2), (c, 3), (d, 4)}
